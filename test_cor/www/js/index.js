@@ -72,13 +72,11 @@ var app = {
         //admob
      // Set AdMobAds options:
       admob.setOptions({
-        publisherId:           "ca-app-pub-7251676025279948/7407344163",  // Required
-        interstitialAdId:      "ca-app-pub-7251676025279948/2753783281",  // Optional
+        publisherId:           "ca-app-pub-7251676025279948/3407247765",  // Required
+        interstitialAdId:      "ca-app-pub-7251676025279948/5267124347",  // Optional
         autoShowBanner:        true,                                      // Optional
-        autoShowRInterstitial: false,                                     // Optional
+        autoShowRInterstitial: true,                                     // Optional
         autoShowRewarded:      false,                                     // Optional
-        tappxIdiOS:            "/XXXXXXXXX/Pub-XXXX-iOS-IIII",            // Optional
-        tappxIdAndroid:        "/XXXXXXXXX/Pub-XXXX-Android-AAAA",        // Optional
         tappxShare:            0.5                                        // Optional
       });
       
