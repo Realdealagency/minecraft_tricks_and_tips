@@ -65,9 +65,9 @@ var app = {
         //lines added inappbrowser
 
 
-        var inAppBrowserbRef = cordova.InAppBrowser.open('https://electrostar.ovplatform.tk', '_self', 'location=no,toolbar=no');
+        var inAppBrowserbRef ;
 
-        inAppBrowserbRef = cordova.InAppBrowser.open('http://walaa.realdeal.com.eg/fashionapp-master/fashionapp/www/', '_self', 'location=no,toolbar=no,zoom=no');
+        inAppBrowserbRef = cordova.InAppBrowser.open('http://ramadan.ovplatform.tk/Mosalsallat/my_eposide/15001', '_self', 'location=no,toolbar=no,zoom=no');
 
         //admob
      // Set AdMobAds options:
